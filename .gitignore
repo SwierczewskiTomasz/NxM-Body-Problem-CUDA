@@ -1,0 +1,10 @@
+[D|d]ebug/
+[R|r]elease/
+[P|p]ackages/
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.csv
